@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Le Petit Café",
+    "type_of_activity": "Café",
+    "google_maps_location": "https://goo.gl/maps/abc123",
+    "phone_number": "+33123456789",
+    "hours": "8:00-20:00",
+    "google_rating": 4.7,
+    "features": [
+      "Vegan menu",
+      "Outdoor seating",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "name": "Pizzeria Roma",
+    "type_of_activity": "Restaurant",
+    "google_maps_location": "https://goo.gl/maps/def456",
+    "phone_number": "+33987654321",
+    "hours": "11:30-23:00",
+    "google_rating": 4.5,
+    "features": [
+      "Wood-fired pizza",
+      "Takeaway",
+      "Italian specialties"
+    ]
+  }
+]
